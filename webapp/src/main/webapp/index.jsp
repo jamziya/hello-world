@@ -1,7 +1,6 @@
-
 <form action="action_page.php">
   <div class="container">
-    <h1>Welcome to my page, my name is MOH</h1>
+    <h1>Welcome to my page, my name is JAMZIYA</h1>
     <p>Please fillin this form.</p>
      
     <label for="Name"><b>Enter Name</b></label>
@@ -27,8 +26,9 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
-   <h1> Thank you, stay blessed </h1>
+   <h1> Thank you, hope it changes automatically </h1>
 
   
 </form>
+
 
